@@ -17,7 +17,7 @@ Select a home team and away team from the 2026 World Cup squads and the model pr
 ## Prediction Log
 | Date | Match | Prediction | Actual Result |
 
-| June 12 | South Korea vs Czechia | France 93% | TBD |
+| June 12 | South Korea vs Czechia | South Korea 52% | TBD |
 | June 12 | Mexico vs South Africa | Mexico 94% | TBD |
 
 ## Tech Stack

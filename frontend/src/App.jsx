@@ -8,12 +8,12 @@ const WORLD_CUP_TEAMS = [
   "Colombia", "Costa Rica", "Croatia", "Czech Republic", "DR Congo",
   "Denmark", "Ecuador", "Egypt", "England", "France",
   "Georgia", "Germany", "Honduras", "Hungary", "Indonesia",
-  "Iran", "Iraq", "Ivory Coast", "Japan", "Jordan",
+  "Iran", "Iraq", "Ivory Coast", "Japan", "Jordan", "Korea Republic",
   "Mali", "Mexico", "Morocco", "Netherlands", "New Zealand",
   "Nigeria", "Norway", "Oman", "Panama", "Paraguay",
   "Peru", "Poland", "Portugal", "Qatar", "Romania",
   "Saudi Arabia", "Scotland", "Senegal", "Serbia", "Slovakia",
-  "Slovenia", "South Africa", "Korea Republic", "Spain", "Sweden",
+  "Slovenia", "South Africa", "Spain", "Sweden",
   "Switzerland", "Tunisia", "Turkey", "Ukraine", "Uruguay",
   "United States", "Uzbekistan", "Venezuela"
 ]
