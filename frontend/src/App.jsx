@@ -13,7 +13,7 @@ const WORLD_CUP_TEAMS = [
   "Nigeria", "Norway", "Oman", "Panama", "Paraguay",
   "Peru", "Poland", "Portugal", "Qatar", "Romania",
   "Saudi Arabia", "Scotland", "Senegal", "Serbia", "Slovakia",
-  "Slovenia", "South Africa", "South Korea", "Spain", "Sweden",
+  "Slovenia", "South Africa", "Korea Republic", "Spain", "Sweden",
   "Switzerland", "Tunisia", "Turkey", "Ukraine", "Uruguay",
   "United States", "Uzbekistan", "Venezuela"
 ]
