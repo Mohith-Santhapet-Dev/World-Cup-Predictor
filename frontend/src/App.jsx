@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-const FLASK_URL = 'http://54.252.4.125'
+const FLASK_URL = 'https://world-cup-predictor-6ab9.onrender.com'
 
 const WORLD_CUP_TEAMS = [
   "Albania", "Algeria", "Argentina", "Australia", "Austria",
