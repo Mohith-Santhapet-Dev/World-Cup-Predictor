@@ -15,9 +15,10 @@ Select a home team and away team from the 2026 World Cup squads and the model pr
 - Validated against live 2026 World Cup matches
 
 ## Prediction Log
-| Date | Match | Prediction | Actual Result |
 
-| June 12 | South Korea vs Czechia | South Korea 52% | TBD |
+| Date | Match | Prediction | Actual Result |
+|---|---|---|---|
+| June 12 | Korea Republic vs Czechia | Korea Republic 52% | TBD |
 | June 12 | Mexico vs South Africa | Mexico 94% | TBD |
 
 ## Tech Stack
@@ -27,4 +28,3 @@ Select a home team and away team from the 2026 World Cup squads and the model pr
 - Cloud: AWS EC2 (initial deployment)
 - Version Control: Git, GitHub
 
-## Project Structure
