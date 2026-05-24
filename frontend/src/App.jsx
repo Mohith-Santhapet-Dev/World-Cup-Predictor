@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-const FLASK_URL = 'http://54.252.4.125:5555'
+const FLASK_URL = 'http://54.252.4.125'
 
 const WORLD_CUP_TEAMS = [
   "Albania", "Algeria", "Argentina", "Australia", "Austria",
