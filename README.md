@@ -2,8 +2,7 @@
 
 A full stack machine learning web app that predicts 2026 FIFA World Cup match outcomes using historical match data, FIFA rankings, and squad scores.
 
-## Live Demo
-https://world-cup-predictor-jbdtp40f6-mohith-santhapet-s-projects.vercel.app
+
 
 ## How It Works
 Select a home team and away team from the 2026 World Cup squads and the model predicts the probability of each team winning based on historical data.
