@@ -8,7 +8,7 @@ A full stack machine learning web app that predicts 2026 FIFA World Cup match ou
 Select a home team and away team from the 2026 World Cup squads and the model predicts the probability of each team winning based on historical data.
 
 ## Model
-- Algorithm: Logistic Regression trained on 49,000+ international matches
+- Algorithm: Logistic Regression trained on around 8000 international matches
 - Features: FIFA world rankings, FIFA points, squad scores (goalkeeper, defence, midfield, offence), recent win rate, average goals scored and conceded, home advantage
 - Accuracy: 75% on held out test data
 - Validated against live 2026 World Cup matches
