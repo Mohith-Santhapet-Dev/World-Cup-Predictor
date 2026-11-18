@@ -13,13 +13,6 @@ Select a home team and away team from the 2026 World Cup squads and the model pr
 - Accuracy: 75% on held out test data
 - Validated against live 2026 World Cup matches
 
-## Prediction Log
-
-| Date | Match | Prediction | Actual Result |
-|---|---|---|---|
-| June 12 | Korea Republic vs Czechia | Korea Republic 52% | TBD |
-| June 12 | Mexico vs South Africa | Mexico 94% | TBD |
-
 ## Tech Stack
 - ML: Python, scikit-learn, pandas, numpy
 - Backend: Flask REST API deployed on Render
